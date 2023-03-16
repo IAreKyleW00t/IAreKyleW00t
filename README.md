@@ -158,6 +158,8 @@ uEUM5JODuTwqqvvhoJTmNsK3ceiabfUUa7C4tNvlLskgV6RKmqZkKL4rarL2Wg==
 
 ### Cosign keys
 
+When supported, I will use [keyless signatures](https://docs.sigstore.dev/cosign/keyless/) instead of my personal key, which will be documented in each repository.
+
 Fingerprint: `e49971685e8578886a46da7153682cf99376ab940bcd8dfd57a1ef0494e9bf9e`
 
 Public Key: [`cosign.pub`](https://github.com/IAreKyleW00t/IAreKyleW00t/blob/main/cosign.pub)
